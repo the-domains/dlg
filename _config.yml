@@ -1,0 +1,28 @@
+name: DLG
+favicon: null
+layout_spectrum: 0.7372959428466856
+typography_spectrum: 0.3245597127825022
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5630727119278163
+  lightness: 0.6330470801331103
+  saturation: 0.17656702199019492
+  rhythmicContrast: 0.37764024757780135
+purpose: []
